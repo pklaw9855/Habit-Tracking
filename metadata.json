@@ -1,0 +1,6 @@
+{
+  "name": "HabitFlow",
+  "description": "Interactive habit tracking dashboard with weekly streaks, monthly/yearly analytics, Google Calendar sync, notifications, and home screen widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

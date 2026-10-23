@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Streak Flame & Checkmark Motif -->
+    <!-- Background circle glow -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,22 A32,32 0 1,1 53.99,22 Z" />
+    
+    <!-- Outer progress ring -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M34,68 A26,26 0 1,1 74,68" />
+        
+    <!-- Fire flame in center -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M54,34 C54,34 62,42 62,50 C62,56 58,60 54,62 C50,60 46,56 46,50 C46,44 50,38 54,34 Z" />
+    <path
+        android:fillColor="#FF5E7E"
+        android:pathData="M54,44 C54,44 59,48 59,52 C59,55 57,58 54,59 C51,58 49,55 49,52 C49,48 51,46 54,44 Z" />
+
+    <!-- Checkmark accent -->
+    <path
+        android:strokeColor="#06D6A0"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,67 L51,75 L67,58" />
+</vector>

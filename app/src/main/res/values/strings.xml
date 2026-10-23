@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HabitFlow</string>
+    <string name="widget_goal_card_name">HabitFlow: Daily Goals Card</string>
+    <string name="widget_goal_card_desc">View today\'s habit goals, completion progress, and active streaks</string>
+    <string name="widget_streak_bar_name">HabitFlow: Quick Streak Bar</string>
+    <string name="widget_streak_bar_desc">Compact streak flame and quick status for home screen</string>
+    <string name="channel_habit_reminders">Habit Reminders</string>
+    <string name="channel_habit_reminders_desc">Notifications to remind you to log and complete your habits</string>
+    <string name="notification_title_reminder">Habit Reminder</string>
+    <string name="notification_action_done">Done</string>
+</resources>
